@@ -1,4 +1,5 @@
-# Start Here
+# Hello World!
+[CONTRIBUTORS.md](./CONTRIBUTORS.md) is the list of contributors to the repo.
 
-Hello World!
-Start your commit here!
+To add yourself to the the list, send a PR.
+Thanks!
